@@ -1,6 +1,6 @@
 # DocSearch configurations
 
-Accidentally added to master.
+Accidentally added to master. another
 
 This repository holds configuration files used by each documentation DocSearch
 is indexing.
